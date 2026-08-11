@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Foco-Jovem%20Aprendiz-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Objetivo-Game%20Dev-purple?style=for-the-badge" />
 </p>
-
+.yml
 ---
 
 ## 🚀 Sobre Mim
